@@ -6,5 +6,5 @@ function theBeatlesPlay(musicians, instruments) {
     finalArray[i]=musicians[i]+" plays "+instruments[i];
   }
   return finalArray;
-  
+
 }
