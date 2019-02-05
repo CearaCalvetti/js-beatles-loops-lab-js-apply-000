@@ -13,3 +13,4 @@ function johnLennonFacts(facts){
     finalArray[index]=facts+"!!!";
   }
 return finalArray;
+}
